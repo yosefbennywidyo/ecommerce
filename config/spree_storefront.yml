@@ -1,21 +1,21 @@
 default:
   navigation:
-    - title: Women
-      subtitle: Categories
-      url: /t/women
+    - title: Wanita
+      subtitle: Kategori
+      url: /t/wanita
       items:
-        - :title: Skirts
-          :url: /t/women/skirts
-        - :title: Dresses
-          :url: /t/women/dresses
-        - :title: Shirts and Blouses
-          :url: /t/women/shirts-and-blouses
-        - :title: Sweaters
-          :url: /t/women/sweaters
-        - :title: Tops and T-shirts
-          :url: /t/women/tops-and-t-shirts
-        - :title: Jackets and Coats
-          :url: /t/women/jackets-and-coats
+        - :title: Rok
+          :url: /t/wanita/rok
+        - :title: Gaun
+          :url: /t/wanita/gaun
+        - :title: Kemeja dan Blus
+          :url: /t/wanita/kemeja-dan-blus
+        - :title: Sweater
+          :url: /t/wanita/sweater
+        - :title: Atasan and T-shirts
+          :url: /t/wanita/atasan-dan-t-shirts
+        - :title: Jaket dan Mantel
+          :url: /t/wanita/jaket-dan-mantel
       promo_banners:
         - subtitle: New collection
           title: Summer 2021
@@ -25,18 +25,18 @@ default:
           title: Get up to 30% off
           url: /t/special-offers/30-percent-off
           image: 'meganav/promo_banner_right-first-category.jpg'
-    - title: Men
-      subtitle: Categories
-      url: /t/men
+    - title: Pria
+      subtitle: Kategori
+      url: /t/pria
       items:
-        - :title: Shirts
-          :url: /t/men/shirts
+        - :title: Kemeja
+          :url: /t/pria/kemeja
         - :title: T-shirts
-          :url: /t/men/t-shirts
-        - :title: Sweaters
-          :url: /t/men/sweaters
-        - :title: Jackets and Coats
-          :url: /t/men/jackets-and-coats
+          :url: /t/pria/t-shirts
+        - :title: Sweater
+          :url: /t/pria/sweater
+        - :title: Jaket dan mantel
+          :url: /t/pria/jaket-dan-mantel
       promo_banners:
         - subtitle: New collection
           title: Summer 2021
