@@ -742,6 +742,7 @@ id:
     logout: Keluar
     logs:
     look_for_similar_items: Cari barang yang mirip
+    man: Pria
     make_refund: Melakukan pengembalian
     make_sure_the_above_reimbursement_amount_is_correct:
     manage_promotion_categories:
@@ -1170,6 +1171,7 @@ id:
     special_instructions: Instruksi Spesial
     split: Urai
     spree_gateway_error_flash_for_checkout: Terdapat suatu masalah dengan informasi pembayaran anda. Cek informasi anda lagi dan coba lagi.
+    sportswear: Pakaian Olahraga
     ssl:
       change_protocol:
     start: Mulai
@@ -1229,6 +1231,8 @@ id:
     subtotal: Subtotal
     subtract: Kurangi
     success: Sukses
+    summer_collection: Koleksi Musim Panas
+    shop_now: Mulai belanja
     successfully_created: "%{resource} telah Berhasil Dibuat!"
     successfully_refunded:
     successfully_removed: "%{resource} telah Berhasil Dihapus!"
@@ -1325,6 +1329,7 @@ id:
     what_is_a_cvv: Apa itu (CVV) Credit Card Code?
     what_is_this: Apa ini?
     width: Lebar
+    women: Wanita
     year: Tahun
     you_have_no_orders_yet: Anda belum mempunyai pemesanan.
     your_cart_is_empty: Keranjang Belanja anda kosong
