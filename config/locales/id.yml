@@ -686,6 +686,7 @@ id:
     included_in_price: Termasuk dalam Harga
     included_price_validation: tidak dapat dipilih jika anda tidak mengatur Area Awal Pajak
     incomplete:
+    internationalization: Internationalisasi
     info_number_of_skus_not_shown:
     info_product_has_multiple_skus:
     instructions_to_reset_password: Isi formulir di bawah ini dan instruksi perubahan kata sandi akan dikirimkan ke email anda
@@ -768,6 +769,10 @@ id:
     name: Nama
     name_on_card: Nama di Kartu
     name_or_sku: Nama atau SKU (inputkan paling tidak 4 karakter dari nama produk)
+    nav_bar:
+      desktop: Desktop
+      show_search: Tampilkan pencarian
+      show_user_menu: Tampilkan menu pengguna
     new: Buat Baru
     new_adjustment: Penyesuaian Baru
     new_country: Negara Baru
