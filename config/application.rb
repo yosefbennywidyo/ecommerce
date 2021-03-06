@@ -46,5 +46,8 @@ module Ecommerce
 
     # Don't generate system test files.
     config.generators.system_tests = nil
+
+    # Set default language
+    config.i18n.default_locale = :id
   end
 end
