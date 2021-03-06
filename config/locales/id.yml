@@ -1082,7 +1082,7 @@ id:
     return_number: Nomor Pengembalian Barang
     return_quantity: Jumlah Pengembalian
     returned: Telah Dikembalikan
-    returns:
+    returns: Pengembalian
     review: Periksa
     risk: Risiko
     risk_analysis: Analisis risiko
